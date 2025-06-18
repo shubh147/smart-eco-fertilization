@@ -5,7 +5,7 @@ from time import sleep
 
 class BestTimeToFertilize:
     __BASE_URL = "https://api.weatherbit.io/v2.0/forecast/daily?"
-    __API_KEY = "8341d39664a64ad2a1c6df4a5e514119"
+    __API_KEY = "your_api_key"
 
     
     
